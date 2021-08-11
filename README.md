@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rishi143
+- 👀 I’m interested in Full stack technologies,AI/ML,Data engineering
+- 🌱 I’m currently working at Optum,Hyderabad as Full Stack Engineer
+- 💞️ I’m looking to collaborate on Any challenge thrown at me
